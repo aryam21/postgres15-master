@@ -41,6 +41,6 @@ properties:
     POSTGRESQL_DOTNET_PASSWORD:
       vault: POSTGRESQL_DOTNET_PASSWORD
     
-    revision : 3
+    revision : 4
 
     
